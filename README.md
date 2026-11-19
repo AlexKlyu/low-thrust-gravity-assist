@@ -1,7 +1,7 @@
 # Efficiency of Low-Thrust Gravity Assist
 
 Code accompanying the Technical Note *"Efficiency of Low-Thrust Gravity Assist"*
-by A. V. Kliuchnikov (manuscript under review in the *Journal of Guidance, Control, and Dynamics*;
+by A. Kliuchnikov (manuscript under review in the *Journal of Guidance, Control, and Dynamics*;
 preprint: [doi:10.13140/RG.2.2.21880.00007](https://doi.org/10.13140/RG.2.2.21880.00007)).
 
 The efficiency of a low-thrust gravity assist is defined as the ratio of the orbital energy gain under
