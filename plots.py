@@ -6,7 +6,7 @@ Generate the figures and Table 3 of the JGCD Technical Note
           b) eta(kappa) at fixed lambda
   Table 3 Efficiency for typical flybys with realistic periapsis distances
 
-Author: Alexander V. Kliuchnikov (MIPT)
+Author: Alexander Kliuchnikov (MIPT)
 """
 import numpy as np
 import matplotlib
